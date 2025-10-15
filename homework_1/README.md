@@ -1,4 +1,4 @@
-# MAE263F_Fall_2025
+homework1 instruction
 
 - Run **Homework1.ipynb**
 - `nodes.txt` contains node information
