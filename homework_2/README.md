@@ -1,12 +1,7 @@
-# Homework 2: Simply-Supported Beam Simulation
-
-## Overview
-This homework simulates a simply-supported aluminum beam subjected to a point load using a discrete elastic rod model with implicit Euler time integration.
-
 ## Files
 
 ### Main Code
-- **`Homework2.ipynb`**: Main Jupyter notebook containing the complete simulation code. Run all cells sequentially.
+- **`Homework2.ipynb`**
 
 ### Running the Simulation
 
@@ -23,10 +18,6 @@ This homework simulates a simply-supported aluminum beam subjected to a point lo
    ```
 
 ### Code Purposes
-
-The code will:
 1. Simulate beam deflection for P = 2000 N over 1 second
-2. Plot beam deformation at multiple time steps
-3. Display ymax vs. time plot with theoretical comparison
-4. Run for P = 20 N to 20,000 N
-5. Generate comparison plots and error analysis
+2. Display ymax vs. time plot with theoretical comparison
+3. Run for P = 20 N to 20,000 N to compare simulation with the Bernoulli theory
